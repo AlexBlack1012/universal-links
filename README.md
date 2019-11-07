@@ -8,6 +8,6 @@ You can easily deploy your own version of the web app for free to Heroku by clic
 
 | Starter | Final |
 |---------|-------|
-| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/raywenderlich/universal-links/tree/starter) | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zgpeace/universal-links/tree/final) |
+| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/raywenderlich/universal-links/tree/starter) | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlexBlack1012/universal-links/blob/final/) |
 
-https://github.com/zgpeace/universal-links/tree/final
+https://github.com/AlexBlack1012/universal-links/blob/final/apple-app-site-association
